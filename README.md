@@ -1,4 +1,4 @@
-(# digital_clock)
+# digital_clock
 
-## Displaying real time date and time.
-## Developed using HTML, CSS and JAVASCRIPT
+ Displaying real time date and time.
+ Developed using HTML, CSS and JAVASCRIPT
