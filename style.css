@@ -9,6 +9,7 @@ body {
     justify-content: center;
     background: url("nature.webp");
     background-size: cover;
+    overflow: hidden;
 }
 
 h2{
