@@ -12,7 +12,7 @@ body {
     overflow: hidden;
 }
 
-h2{
+h2 {
     letter-spacing: 4px;
     font-size: 14px;
     text-align: center;
@@ -27,11 +27,11 @@ h2{
     margin: 5px;
 }
 
-.clock span{
-    width: 100px;
+.clock span {
+    width: 95px;
     height: 80px;
     background: slateblue;
-    opacity: 0.8;
+    opacity: 0.9;
     color: #fff;
     display: flex;
     justify-content: center;
@@ -40,19 +40,20 @@ h2{
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-.clock .text{
+.clock .text {
     height: 30px;
     font-size: 10px;
     letter-spacing: 2px;
     background: darkblue;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .clock #ampm {
-    /* bottom: 0; */
-    position: absolute;
-    width: 60px;
+    width: 40px;
     height: 30px;
     font-size: 20px;
     background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
